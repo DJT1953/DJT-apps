@@ -19,6 +19,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Duplicate File Finder | Finds exact copies and look-alike photos, videos and documents, and moves the extras to a review folder. Never deletes anything. |
 | Clean Up Scans | Straightens, crops and whitens photographed or scanned pages, saving cleaned copies and leaving the originals alone. |
 | Proofreader | Fixes spelling, grammar, punctuation and capitals in Word, RTF and text files, saving corrected copies with a report. Its free checker works offline; Word is optional. |
+| Song Cleaner | Tidies a folder of MP3s recorded from the radio: better names, copies of the same song removed, talk trimmed from the ends. Nothing is deleted; Undo puts it back. |
 
 More apps are on the way.
 
@@ -46,8 +47,10 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
 ## Licenses
 
-The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR, OpenCV, LanguageTool and Java (Eclipse Temurin). Their licenses,
+The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR, OpenCV, LanguageTool, Java (Eclipse Temurin), mutagen and Chromaprint. Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
+
+Song Cleaner is free software under the GNU GPL (version 3 or later). Its source code comes with it, in the `source` folder of the installed app, and as a zip on its release page.
 
 ## For download sites
 
