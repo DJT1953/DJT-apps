@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>make_pad.py</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set used by software authors to share information about their programs. Spec: https://pad.asp-software.org/</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>DJThomas</Company_Name>
+    <Country>USA</Country>
+    <Company_WebSite_URL>https://github.com/DJT1953/DJT-apps</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>DJThomas</Author_First_Name>
+      <Author_Email>djthomas1753@gmail.com</Author_Email>
+      <Contact_First_Name>DJThomas</Contact_First_Name>
+      <Contact_Email>djthomas1753@gmail.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email>djthomas1753@gmail.com</Support_Email>
+      <General_Email>djthomas1753@gmail.com</General_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Find and Replace</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinOther</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>First release.</Program_Change_Info>
+    <Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
+    <Program_System_Requirements>Windows 10 or 11, 64-bit. Word for .docx, .doc and .rtf (not .txt)</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>2131331</File_Size_Bytes>
+      <File_Size_K>2081</File_Size_K>
+      <File_Size_MB>2.03</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>find and replace, batch replace, many documents, word documents, rtf, docx, txt, remove text, free, windows</Keywords>
+      <Char_Desc_45>Finds and replaces text in many documents</Char_Desc_45>
+      <Char_Desc_80>Changes words, beginnings, endings and sections in many Word, RTF and text files</Char_Desc_80>
+      <Char_Desc_250>Change text in many .docx, .doc, .rtf and .txt files at once: replace words, marks or formatting, take out everything before or after a phrase, or delete sections between two phrases. Every change is shown first, and originals can be kept.</Char_Desc_250>
+      <Char_Desc_450>Change text in many .docx, .doc, .rtf and .txt files at once: replace words, marks or formatting, take out everything before or after a phrase, or delete sections between two phrases. Every change is shown first, and originals can be kept. Needs Microsoft Word for Word and RTF files. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
+      <Char_Desc_2000>Find and Replace changes the text in many .rtf, .doc, .docx and .txt documents at once. It can replace words, phrases or marks you can't normally see (a line break can become a paragraph mark), and find and change how text looks: font, size, bold, italic, underline, color, highlight and style. It can also take out the beginning of each document up to a phrase, the ending after a phrase, or every section between two phrases, putting new text in their place if you like. Add documents or a whole folder, choose what to change, and click Preview the changes: every change is shown first, and nothing is changed until you say so. Changed copies go into a "replaced" folder, or the documents themselves are changed after a copy of each is kept. Sample documents are included to try it safely.
+
+Before you install: Microsoft Word (not included) is needed for Word (.docx, .doc) and Rich Text (.rtf) documents; text (.txt) files work without it. Setup tells you if Word is not found. Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/find-and-replace-v1.0</Application_Info_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/find-and-replace.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/find-and-replace-icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/find-and-replace.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/find-and-replace-v1.0/Find.and.Replace.Setup.1.0.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Find and Replace is free to use and share. Download sites may list it and offer the unchanged Setup.exe, or link to the download page.</Distribution_Permissions>
+    <EULA>Find and Replace is free and comes with no warranty. Use it at your own risk. The free parts it is built from keep their own licenses, listed in the licenses folder it installs.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
