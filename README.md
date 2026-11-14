@@ -10,6 +10,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | App | What it does |
 |---|---|
 | Video Player | Plays MP4, MKV, AVI, MOV and most other videos, a whole folder at a time. Full screen, skip 10 s, save a frame as a picture. |
+| Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
 
 More apps are on the way.
 
@@ -29,5 +30,5 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
 ## Licences
 
-The apps are free. They are built with Python, Qt (PySide6) and FFmpeg. Their licences,
+The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg and Tesseract OCR. Their licences,
 and where to get their source code, are in the `licenses` folder inside each installed app.
