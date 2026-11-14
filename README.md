@@ -15,6 +15,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Combine Word Files | Joins every Word file in a folder into one, in page-number order, each keeping its own look. |
 | Document Reformatter | Gives every Word, RTF and text file in a folder one new font, size and spacing, saving copies. **Needs Microsoft Word.** |
 | Cross Folder Compare | Finds the photos and documents two folders have in common, even renamed, resized or re-saved. Never moves or deletes anything. |
+| Duplicate File Finder | Finds exact copies and look-alike photos, videos and documents, and moves the extras to a review folder. Never deletes anything. |
 | Clean Up Scans | Straightens, crops and whitens photographed or scanned pages, saving cleaned copies and leaving the originals alone. |
 
 More apps are on the way.
