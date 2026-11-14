@@ -13,6 +13,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
 | Combine Word Files | Joins every Word file in a folder into one, in page-number order, each keeping its own look. |
 | Cross Folder Compare | Finds the photos and documents two folders have in common, even renamed, resized or re-saved. Never moves or deletes anything. |
+| Clean Up Scans | Straightens, crops and whitens photographed or scanned pages, saving cleaned copies and leaving the originals alone. |
 
 More apps are on the way.
 
@@ -32,5 +33,5 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
 ## Licenses
 
-The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg and Tesseract OCR. Their licenses,
+The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR and OpenCV. Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
