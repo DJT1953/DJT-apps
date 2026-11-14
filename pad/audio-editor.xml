@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>make_pad.py</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set used by software authors to share information about their programs. Spec: https://pad.asp-software.org/</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>DJThomas</Company_Name>
+    <Country>USA</Country>
+    <Company_WebSite_URL>https://github.com/DJT1953/DJT-apps</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>DJThomas</Author_First_Name>
+      <Author_Email>djthomas1753@gmail.com</Author_Email>
+      <Contact_First_Name>DJThomas</Contact_First_Name>
+      <Contact_Email>djthomas1753@gmail.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email>djthomas1753@gmail.com</Support_Email>
+      <General_Email>djthomas1753@gmail.com</General_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Audio Editor</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinOther</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>First release.</Program_Change_Info>
+    <Program_Category_Class>Audio &amp; Multimedia::Other</Program_Category_Class>
+    <Program_System_Requirements>Windows 10 or 11, 64-bit</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>82746410</File_Size_Bytes>
+      <File_Size_K>80807</File_Size_K>
+      <File_Size_MB>78.91</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>audio editor, mp3 editor, cut mp3, sound editor, voice changer, record audio, waveform, free, windows</Keywords>
+      <Char_Desc_45>Plays, cuts and changes sound files</Char_Desc_45>
+      <Char_Desc_80>Cut, join and change MP3, WAV, FLAC and other sound files on a waveform.</Char_Desc_80>
+      <Char_Desc_250>Open a sound file (or a video's sound), see it as a waveform, mark a part and cut, copy, paste, silence or trim it. Change the voice, add effects such as fades, echo or noise reduction, record from the microphone, and save as MP3, WAV, FLAC and more.</Char_Desc_250>
+      <Char_Desc_450>Open a sound file (or a video's sound), see it as a waveform, mark a part and cut, copy, paste, silence or trim it. Change the voice, add effects such as fades, echo or noise reduction, record from the microphone, and save as MP3, WAV, FLAC and more. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
+      <Char_Desc_2000>Audio Editor plays and edits sound files: MP3, WAV, FLAC, M4A, OGG, Opus, WMA, AIFF and most others, or the sound from a video. The sound shows as a waveform. Click to move the cursor, then 1. Mark a part with Mark start and Mark end (or drag across it), and 2. Change it: Cut, Copy, Paste here, Delete, Trim to marked part or Silence it, with Undo and Redo for every change. Change voice moves the pitch and voice character, with styles such as Robot, Telephone, Whisper, Echo or Cave and a Preview. Effects include volume, as loud as possible, even out the volume, fades, reverse, speed and tempo, bass and treble, echo, reverb, reduce noise and shorten long pauses. Insert or mix in another file (the music can be turned down under a voice), insert silence, or record from the microphone. Save as MP3, WAV, FLAC, M4A, OGG, Opus, AIFF, WMA or AAC, keeping song names and other tags.
+
+Before you install: Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/audio-editor-v1.0</Application_Info_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/audio-editor.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/audio-editor-icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/audio-editor.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/audio-editor-v1.0/Audio.Editor.Setup.1.0.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Audio Editor is free to use and share. Download sites may list it and offer the unchanged Setup.exe, or link to the download page.</Distribution_Permissions>
+    <EULA>Audio Editor is free and comes with no warranty. Use it at your own risk. The free parts it is built from keep their own licenses, listed in the licenses folder it installs.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>

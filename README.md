@@ -11,6 +11,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 |---|---|
 | Video Player | Plays MP4, MKV, AVI, MOV and most other videos, a whole folder at a time. Full screen, skip 10 s, save a frame as a picture. |
 | Video Editor | Cuts and joins videos and sound files, with volume, fades and added music, then saves a new MP4, MP3 and more. |
+| Audio Editor | Plays and edits MP3, WAV, FLAC and other sound files on a waveform: cut, copy, paste, change the voice, add effects, record, and save. |
 | Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
 | Combine Word Files | Joins every Word file in a folder into one, in page-number order, each keeping its own look. |
 | Document Reformatter | Gives every Word, RTF and text file in a folder one new font, size and spacing, saving copies. **Needs Microsoft Word.** |
