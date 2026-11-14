@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>make_pad.py</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set used by software authors to share information about their programs. Spec: https://pad.asp-software.org/</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>DJThomas</Company_Name>
+    <Country>USA</Country>
+    <Company_WebSite_URL>https://github.com/DJT1953/DJT-apps</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>DJThomas</Author_First_Name>
+      <Author_Email>DJT1953@gmail.com</Author_Email>
+      <Contact_First_Name>DJThomas</Contact_First_Name>
+      <Contact_Email>DJT1953@gmail.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email>DJT1953@gmail.com</Support_Email>
+      <General_Email>DJT1953@gmail.com</General_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Document Reformatter</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinOther</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>First release.</Program_Change_Info>
+    <Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
+    <Program_System_Requirements>Windows 10 or 11, 64-bit. Microsoft Word (not included)</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>2083196</File_Size_Bytes>
+      <File_Size_K>2034</File_Size_K>
+      <File_Size_MB>1.99</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>reformat documents, change font, batch word, rtf, docx, doc, fix formatting, microsoft word, free, windows</Keywords>
+      <Char_Desc_45>Gives a folder of documents one new look</Char_Desc_45>
+      <Char_Desc_80>Changes the font, size and spacing of every Word, RTF and text file in a folder.</Char_Desc_80>
+      <Char_Desc_250>Pick a folder, choose a font, size and spacing, and every .rtf, .doc, .docx and .txt file in it is saved as a reformatted .rtf copy in a "fixed" folder. Clean-up options remove highlights, empty lines and links. Needs Microsoft Word.</Char_Desc_250>
+      <Char_Desc_450>Pick a folder, choose a font, size and spacing, and every .rtf, .doc, .docx and .txt file in it is saved as a reformatted .rtf copy in a "fixed" folder. Clean-up options remove highlights, empty lines and links. Needs Microsoft Word. Needs Microsoft Word. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
+      <Char_Desc_2000>Document Reformatter gives a whole folder of documents one consistent look. Pick a folder, choose the font, size and Normal style (line spacing, space between paragraphs, first-line indent, alignment and text color), choose whether headings stay bigger, and tick any clean-up options. Every .rtf, .doc, .docx and .txt file directly in the folder is saved as a reformatted .rtf copy in a "fixed" folder inside it; the originals are never changed. A summary lists what was converted, skipped or couldn't be done. It uses Microsoft Word to do the work; if Word can't open a file, LibreOffice (when installed) is tried.
+
+Before you install: Needs Microsoft Word (not included). Setup warns if Word is not found. Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-reformatter-v1.0</Application_Info_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-reformatter.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-reformatter-icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/document-reformatter.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-reformatter-v1.0/Document.Reformatter.Setup.1.0.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Document Reformatter is free to use and share. Download sites may list it and offer the unchanged Setup.exe, or link to the download page.</Distribution_Permissions>
+    <EULA>Document Reformatter is free and comes with no warranty. Use it at your own risk. The free parts it is built from keep their own licenses, listed in the licenses folder it installs.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>

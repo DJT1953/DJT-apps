@@ -19,6 +19,14 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 
 More apps are on the way.
 
+## Before you install
+
+- **Windows 10 or 11, 64-bit.** The apps don't run on Mac, Linux or 32-bit Windows.
+- **"Windows protected your PC."** The installers aren't code-signed (signing is a paid yearly service), so Windows may show this blue box the first time. Click **More info**, then **Run anyway**.
+- **Antivirus warnings.** A few antivirus programs wrongly flag new, unsigned programs. Each download page lists the file's SHA-256 fingerprint, so you can check you have the real file: in PowerShell, type `Get-FileHash` followed by the file's name, and compare.
+- **Microsoft Word.** Document Reformatter needs Microsoft Word, which isn't included. Its Setup tells you if Word isn't found.
+- **No administrator password needed.** Apps install to `C:\Users\<you>\DJT_Code\<app name>`.
+
 ## Install
 
 1. Double-click the Setup.exe.
@@ -37,3 +45,9 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
 The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR and OpenCV. Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
+
+## For download sites
+
+Each app has a PAD file (Portable Application Description 4.0) in the [`pad`](pad) folder,
+with screenshots and icons in [`images`](images). Download sites may list the apps and
+offer the unchanged Setup.exe files.
