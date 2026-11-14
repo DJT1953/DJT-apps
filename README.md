@@ -29,7 +29,7 @@ Start menu entry.
 
 Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
-## Licences
+## Licenses
 
-The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg and Tesseract OCR. Their licences,
+The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg and Tesseract OCR. Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
