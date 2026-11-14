@@ -12,6 +12,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Video Player | Plays MP4, MKV, AVI, MOV and most other videos, a whole folder at a time. Full screen, skip 10 s, save a frame as a picture. |
 | Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
 | Combine Word Files | Joins every Word file in a folder into one, in page-number order, each keeping its own look. |
+| Cross Folder Compare | Finds the photos and documents two folders have in common, even renamed, resized or re-saved. Never moves or deletes anything. |
 
 More apps are on the way.
 
