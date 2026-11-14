@@ -18,6 +18,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Cross Folder Compare | Finds the photos and documents two folders have in common, even renamed, resized or re-saved. Never moves or deletes anything. |
 | Duplicate File Finder | Finds exact copies and look-alike photos, videos and documents, and moves the extras to a review folder. Never deletes anything. |
 | Clean Up Scans | Straightens, crops and whitens photographed or scanned pages, saving cleaned copies and leaving the originals alone. |
+| Proofreader | Fixes spelling, grammar, punctuation and capitals in Word, RTF and text files, saving corrected copies with a report. Its free checker works offline; Word is optional. |
 
 More apps are on the way.
 
@@ -26,7 +27,7 @@ More apps are on the way.
 - **Windows 10 or 11, 64-bit.** The apps don't run on Mac, Linux or 32-bit Windows.
 - **"Windows protected your PC."** The installers aren't code-signed (signing is a paid yearly service), so Windows may show this blue box the first time. Click **More info**, then **Run anyway**.
 - **Antivirus warnings.** A few antivirus programs wrongly flag new, unsigned programs. Each download page lists the file's SHA-256 fingerprint, so you can check you have the real file: in PowerShell, type `Get-FileHash` followed by the file's name, and compare.
-- **Microsoft Word.** Document Reformatter needs Microsoft Word, which isn't included. Document Renamer needs Word or the free LibreOffice only to name files from the words inside Word and RTF files. Their Setup tells you if these aren't found.
+- **Microsoft Word.** Document Reformatter needs Microsoft Word, which isn't included. Document Renamer needs Word or the free LibreOffice only to name files from the words inside Word and RTF files. Proofreader works without Word on .docx and .txt files; only .doc and .rtf files need it. Their Setup tells you if these aren't found.
 - **No administrator password needed.** Apps install to `C:\Users\<you>\DJT_Code\<app name>`.
 
 ## Install
@@ -45,7 +46,7 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
 ## Licenses
 
-The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR and OpenCV. Their licenses,
+The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR, OpenCV, LanguageTool and Java (Eclipse Temurin). Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
 
 ## For download sites
