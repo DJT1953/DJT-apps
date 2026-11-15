@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>make_pad.py</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set used by software authors to share information about their programs. Spec: https://pad.asp-software.org/</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>DJThomas</Company_Name>
+    <Country>USA</Country>
+    <Company_WebSite_URL>https://github.com/DJT1953/DJT-apps</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>DJThomas</Author_First_Name>
+      <Author_Email>djthomas1753@gmail.com</Author_Email>
+      <Contact_First_Name>DJThomas</Contact_First_Name>
+      <Contact_Email>djthomas1753@gmail.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email>djthomas1753@gmail.com</Support_Email>
+      <General_Email>djthomas1753@gmail.com</General_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Screen Recorder</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinOther</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>First release.</Program_Change_Info>
+    <Program_Category_Class>Audio &amp; Multimedia::Video Tools</Program_Category_Class>
+    <Program_System_Requirements>Windows 10 or 11, 64-bit</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>50167448</File_Size_Bytes>
+      <File_Size_K>48992</File_Size_K>
+      <File_Size_MB>47.84</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>screen recorder, record screen, screen capture, record with sound, microphone, mp4, hotkey, free, windows</Keywords>
+      <Char_Desc_45>Records your screen with sound to MP4</Char_Desc_45>
+      <Char_Desc_80>Records your whole screen with computer sound and your voice into one MP4 video.</Char_Desc_80>
+      <Char_Desc_250>Press Ctrl+Alt+R in any program to film your whole screen with the computer's sound and your microphone, and Esc to stop. One MP4 video is saved by itself in Videos\Screen Recordings. Big worded buttons; nothing else to set up.</Char_Desc_250>
+      <Char_Desc_450>Press Ctrl+Alt+R in any program to film your whole screen with the computer's sound and your microphone, and Esc to stop. One MP4 video is saved by itself in Videos\Screen Recordings. Big worded buttons; nothing else to set up. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
+      <Char_Desc_2000>Screen Recorder films your whole main screen at its full size, 30 frames a second, with the sound your computer plays (videos, calls, music) and your microphone mixed in, and saves one MP4 video that plays on every phone, PC and website. Start it with the big Start recording button or by pressing Ctrl+Alt+R in any program; press Esc to stop, and the video is saved by itself in Videos\Screen Recordings, named with the date and time. A small red bar at the top of the screen shows the recording time and has a Stop button; the bar is left out of the video. Tick computer sound, microphone, both or neither. Play last recording and Open recordings folder find the video afterwards. Everything it needs, including ffmpeg, is included.
+
+Before you install: Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/screen-recorder-v1.0</Application_Info_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/screen-recorder.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/screen-recorder-icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/screen-recorder.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/screen-recorder-v1.0/Screen.Recorder.Setup.1.0.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Screen Recorder is free to use and share. Download sites may list it and offer the unchanged Setup.exe, or link to the download page.</Distribution_Permissions>
+    <EULA>Screen Recorder is free and comes with no warranty. Use it at your own risk. The free parts it is built from keep their own licenses, listed in the licenses folder it installs.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
