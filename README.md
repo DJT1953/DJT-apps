@@ -10,6 +10,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | App | What it does |
 |---|---|
 | Video Player | Plays MP4, MKV, AVI, MOV and most other videos, a whole folder at a time. Full screen, skip 10 s, save a frame as a picture. |
+| Music Player | Plays the music on your PC, about 50,000 internet radio stations, and Spotify, with big buttons and big words. Sleep timer included. |
 | Video Editor | Cuts and joins videos and sound files, with volume, fades and added music, then saves a new MP4, MP3 and more. |
 | Audio Editor | Plays and edits MP3, WAV, FLAC and other sound files on a waveform: cut, copy, paste, change the voice, add effects, record, and save. |
 | Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
@@ -52,7 +53,7 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR, OpenCV, LanguageTool, Java (Eclipse Temurin), mutagen and Chromaprint. Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
 
-Song Cleaner is free software under the GNU GPL (version 3 or later). Its source code comes with it, in the `source` folder of the installed app, and as a zip on its release page.
+Song Cleaner and Music Player are free software under the GNU GPL (version 3 or later). Their source code comes with them, in the `source` folder of the installed app, and as a zip on each release page.
 
 ## For download sites
 
