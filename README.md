@@ -11,6 +11,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 |---|---|
 | Video Player | Plays MP4, MKV, AVI, MOV and most other videos, a whole folder at a time. Full screen, skip 10 s, save a frame as a picture. |
 | Music Player | Plays the music on your PC, about 50,000 internet radio stations, and Spotify, with big buttons and big words. Sleep timer included. |
+| Book Reader | Reads EPUB, Kindle (MOBI, AZW, AZW3), PDF and text books, with a library of covers, bookmarks, notes, search and reading aloud. |
 | Video Editor | Cuts and joins videos and sound files, with volume, fades and added music, then saves a new MP4, MP3 and more. |
 | Audio Editor | Plays and edits MP3, WAV, FLAC and other sound files on a waveform: cut, copy, paste, change the voice, add effects, record, and save. |
 | Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
@@ -24,14 +25,13 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Proofreader | Fixes spelling, grammar, punctuation and capitals in Word, RTF and text files, saving corrected copies with a report. Its free checker works offline; Word is optional. |
 | Song Cleaner | Tidies a folder of MP3s recorded from the radio: better names, copies of the same song removed, talk trimmed from the ends. Nothing is deleted; Undo puts it back. |
 
-More apps are on the way.
 
 ## Before you install
 
 - **Windows 10 or 11, 64-bit.** The apps don't run on Mac, Linux or 32-bit Windows.
 - **"Windows protected your PC."** The installers aren't code-signed (signing is a paid yearly service), so Windows may show this blue box the first time. Click **More info**, then **Run anyway**.
 - **Antivirus warnings.** A few antivirus programs wrongly flag new, unsigned programs. Each download page lists the file's SHA-256 fingerprint, so you can check you have the real file: in PowerShell, type `Get-FileHash` followed by the file's name, and compare.
-- **Microsoft Word.** Document Reformatter needs Microsoft Word, which isn't included. Document Renamer needs Word or the free LibreOffice only to name files from the words inside Word and RTF files. Proofreader works without Word on .docx and .txt files; only .doc and .rtf files need it. Find and Replace needs Word for Word and RTF files; .txt files work without it. Their Setup tells you if these aren't found.
+- **Microsoft Word.** Document Reformatter needs Microsoft Word, which isn't included. Document Renamer needs Word or the free LibreOffice only to name files from the words inside Word and RTF files. Proofreader works without Word on .docx and .txt files; only .doc and .rtf files need it. Find and Replace needs Word for Word and RTF files; .txt files work without it. Book Reader uses Word only to save a copy of a book as Word. Their Setup tells you if these aren't found.
 - **No administrator password needed.** Apps install to `C:\Users\<you>\DJT_Code\<app name>`.
 
 ## Install
