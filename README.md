@@ -20,7 +20,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Document Reformatter | Gives every Word, RTF and text file in a folder one new font, size and spacing, saving copies. **Needs Microsoft Word.** |
 | Document Renamer | Renames a folder of files at once: from their first words, old names or your own text, with dates and numbers. Undo puts old names back. |
 | Find and Replace | Changes text in many Word, RTF and text files at once: words, formatting, beginnings, endings and sections between two phrases. Shows every change first. **Needs Microsoft Word for Word and RTF files.** |
-| Cross Folder Compare | Finds the photos and documents two folders have in common, even renamed, resized or re-saved. Never moves or deletes anything. |
+| Cross Folder Compare | Finds the photos and documents two folders have in common, even renamed, resized or re-saved. Can move the extra copies into a REMOVED BY DUPLICATE SCAN folder by one rule (keep the newer, older, bigger, smaller or sharper copy), with Undo. Never deletes anything. |
 | Duplicate File Finder | Finds exact copies and look-alike photos, videos and documents, and moves the extras to a review folder. Never deletes anything. |
 | Clean Up Scans | Straightens, crops and whitens photographed or scanned pages, saving cleaned copies and leaving the originals alone. |
 | Proofreader | Fixes spelling, grammar, punctuation and capitals in Word, RTF and text files, saving corrected copies with a report. Its free checker works offline; Word is optional. |
