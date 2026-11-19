@@ -16,7 +16,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Video Editor | Cuts and joins videos and sound files, with volume, fades and added music, then saves a new MP4, MP3 and more. |
 | Audio Editor | Plays and edits MP3, WAV, FLAC and other sound files on a waveform: cut, copy, paste, change the voice, add effects, record, and save. |
 | Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
-| Combine Word Files | Joins every Word file in a folder into one, in page-number order, each keeping its own look. |
+| Combine Document Files | Joins Word and RTF files into one, in the order you choose, each keeping its own look. Tick the files to join; save as .docx, .doc, .rtf or PDF. (Called Combine Word Files up to 1.0.1.) |
 | Document Reformatter | Gives every Word, RTF and text file in a folder one new font, size and spacing, saving copies. **Needs Microsoft Word.** |
 | Document Renamer | Renames a folder of files at once: from their first words, old names or your own text, with dates and numbers. Undo puts old names back. |
 | Find and Replace | Changes text in many Word, RTF and text files at once: words, formatting, beginnings, endings and sections between two phrases. Shows every change first. **Needs Microsoft Word for Word and RTF files.** |
@@ -32,7 +32,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 - **Windows 10 or 11, 64-bit.** The apps don't run on Mac, Linux or 32-bit Windows.
 - **"Windows protected your PC."** The installers aren't code-signed (signing is a paid yearly service), so Windows may show this blue box the first time. Click **More info**, then **Run anyway**.
 - **Antivirus warnings.** A few antivirus programs wrongly flag new, unsigned programs. Each download page lists the file's SHA-256 fingerprint, so you can check you have the real file: in PowerShell, type `Get-FileHash` followed by the file's name, and compare.
-- **Microsoft Word.** Document Reformatter needs Microsoft Word, which isn't included. Document Renamer needs Word or the free LibreOffice only to name files from the words inside Word and RTF files. Proofreader works without Word on .docx and .txt files; only .doc and .rtf files need it. Find and Replace needs Word for Word and RTF files; .txt files work without it. Book Reader uses Word only to save a copy of a book as Word. Their Setup tells you if these aren't found.
+- **Microsoft Word.** Document Reformatter needs Microsoft Word, which isn't included. Document Renamer needs Word or the free LibreOffice only to name files from the words inside Word and RTF files. Proofreader works without Word on .docx and .txt files; only .doc and .rtf files need it. Find and Replace needs Word for Word and RTF files; .txt files work without it. Book Reader uses Word only to save a copy of a book as Word. Their Setup tells you if these aren't found. Combine Document Files needs Word only to read .doc and .rtf files and to save as .doc, .rtf or PDF; .docx files work without it.
 - **No administrator password needed.** Apps install to `C:\Users\<you>\DJT_Code\<app name>`.
 
 ## Install
