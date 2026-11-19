@@ -22,22 +22,22 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Document Reformatter</Program_Name>
-    <Program_Version>1.0.1</Program_Version>
+    <Program_Version>1.1.0</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Day>19</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
-    <Program_Release_Status>Minor Update</Program_Release_Status>
+    <Program_Release_Status>Major Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>Fits small screens: the settings scroll while the Start and Cancel buttons stay in view, and the window opens at the top.</Program_Change_Info>
+    <Program_Change_Info>Splits giant run-together paragraphs into proper paragraphs. Reformatted files now stay in the chosen folder, and the originals move, unchanged, into an "Originals" folder.</Program_Change_Info>
     <Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit. Microsoft Word (not included)</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>2083592</File_Size_Bytes>
-      <File_Size_K>2035</File_Size_K>
+      <File_Size_Bytes>2086126</File_Size_Bytes>
+      <File_Size_K>2037</File_Size_K>
       <File_Size_MB>1.99</File_Size_MB>
     </File_Info>
     <Expire_Info>
@@ -49,22 +49,22 @@
       <Keywords>reformat documents, change font, batch word, rtf, docx, doc, fix formatting, microsoft word, free, windows</Keywords>
       <Char_Desc_45>Gives a folder of documents one new look</Char_Desc_45>
       <Char_Desc_80>Changes the font, size and spacing of every Word, RTF and text file in a folder.</Char_Desc_80>
-      <Char_Desc_250>Pick a folder, choose a font, size and spacing, and every .rtf, .doc, .docx and .txt file in it is saved as a reformatted .rtf copy in a "fixed" folder. Clean-up options remove highlights, empty lines and links. Needs Microsoft Word.</Char_Desc_250>
-      <Char_Desc_450>Pick a folder, choose a font, size and spacing, and every .rtf, .doc, .docx and .txt file in it is saved as a reformatted .rtf copy in a "fixed" folder. Clean-up options remove highlights, empty lines and links. Needs Microsoft Word. Needs Microsoft Word. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
-      <Char_Desc_2000>Document Reformatter gives a whole folder of documents one consistent look. Pick a folder, choose the font, size and Normal style (line spacing, space between paragraphs, first-line indent, alignment and text color), choose whether headings stay bigger, and tick any clean-up options. Every .rtf, .doc, .docx and .txt file directly in the folder is saved as a reformatted .rtf copy in a "fixed" folder inside it; the originals are never changed. A summary lists what was converted, skipped or couldn't be done. It uses Microsoft Word to do the work; if Word can't open a file, LibreOffice (when installed) is tried.
+      <Char_Desc_250>Pick a folder, choose a font, size and spacing, and every .rtf, .doc, .docx and .txt file in it is reformatted as .rtf; originals move to an "Originals" folder. Splits giant run-together paragraphs. Needs Microsoft Word.</Char_Desc_250>
+      <Char_Desc_450>Pick a folder, choose a font, size and spacing, and every .rtf, .doc, .docx and .txt file in it is reformatted as .rtf; originals move to an "Originals" folder. Splits giant run-together paragraphs. Needs Microsoft Word. Needs Microsoft Word. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
+      <Char_Desc_2000>Document Reformatter gives a whole folder of documents one consistent look. Pick a folder, choose the font, size and Normal style (line spacing, space between paragraphs, first-line indent, alignment and text color), choose whether headings stay bigger, and tick any clean-up options. One option splits giant paragraphs whose line breaks were lost, as in text copied from a web page. Every .rtf, .doc, .docx and .txt file directly in the folder is reformatted and saved there as .rtf, and the originals are moved, unchanged, into an "Originals" folder inside it. Nothing is ever overwritten. A summary lists what was converted, skipped or couldn't be done. It uses Microsoft Word to do the work; if Word can't open a file, LibreOffice (when installed) is tried.
 
 Before you install: Needs Microsoft Word (not included). Setup warns if Word is not found. Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-reformatter-v1.0.1</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-reformatter-v1.1.0</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-reformatter.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-reformatter-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/document-reformatter.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-reformatter-v1.0.1/Document.Reformatter.Setup.1.0.1.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-reformatter-v1.1.0/Document.Reformatter.Setup.1.1.0.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>
