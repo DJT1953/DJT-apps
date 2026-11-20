@@ -18,7 +18,7 @@ Go to **[Releases](../../releases)** and download the Setup.exe for the app you 
 | Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
 | Combine Document Files | Joins Word and RTF files into one, in the order you choose, each keeping its own look. Tick the files to join; save as .docx, .doc, .rtf or PDF. (Called Combine Word Files up to 1.0.1.) |
 | Document Reformatter | Gives every Word, RTF and text file in a folder one new font, size and spacing. Joins lines broken at every line end and splits giant run-together paragraphs. The originals are kept, unchanged, in an Originals folder. **Needs Microsoft Word.** |
-| Document Renamer | Renames a folder of files at once: from their first words, old names or your own text, with dates and numbers. Undo puts old names back. |
+| Document Renamer | Renames a folder of files at once, or just the ones you pick: from their first words, old names or your own text, with dates and numbers. Tick boxes leave any file out; Undo puts old names back. |
 | Find and Replace | Changes text in many Word, RTF and text files at once: words, formatting, beginnings, endings and sections between two phrases. Shows every change first. **Needs Microsoft Word for Word and RTF files.** |
 | Cross Folder Compare | Finds the photos and documents two folders have in common, even renamed, resized or re-saved. Can move the extra copies into a REMOVED BY DUPLICATE SCAN folder by one rule (keep the newer, older, bigger, smaller or sharper copy), with Undo. Never deletes anything. |
 | Duplicate File Finder | Finds exact copies and look-alike photos, videos and documents, and moves the extras to a review folder. Never deletes anything. |
@@ -53,6 +53,8 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
 The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR, OpenCV, LanguageTool, Java (Eclipse Temurin), mutagen, Chromaprint and soundcard. Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
+Document Reformatter, Document Renamer and Find and Replace use only parts that come with Windows,
+so they have no `licenses` folder.
 
 Song Cleaner and Music Player are free software under the GNU GPL (version 3 or later). Their source code comes with them, in the `source` folder of the installed app, and as a zip on each release page.
 

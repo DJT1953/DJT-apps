@@ -69,6 +69,6 @@ Before you install: Microsoft Word (not included) is needed for Word (.docx, .do
   </Web_Info>
   <Permissions>
     <Distribution_Permissions>Find and Replace is free to use and share. Download sites may list it and offer the unchanged Setup.exe, or link to the download page.</Distribution_Permissions>
-    <EULA>Find and Replace is free and comes with no warranty. Use it at your own risk. The free parts it is built from keep their own licenses, listed in the licenses folder it installs.</EULA>
+    <EULA>Find and Replace is free and comes with no warranty. Use it at your own risk. It uses only parts that come with Windows, so it brings no other licenses.</EULA>
   </Permissions>
 </XML_DIZ_INFO>

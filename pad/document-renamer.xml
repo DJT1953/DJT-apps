@@ -22,23 +22,23 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Document Renamer</Program_Name>
-    <Program_Version>1.0</Program_Version>
+    <Program_Version>1.1</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Day>19</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
-    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>First release.</Program_Change_Info>
+    <Program_Change_Info>Pick just some files to rename, or untick files in the list to leave them out. It now opens on its main window, so you can make your choices before choosing a folder.</Program_Change_Info>
     <Program_Category_Class>System Utilities::File &amp; Disk Management</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit. Word or LibreOffice only for names from document text</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>2091537</File_Size_Bytes>
-      <File_Size_K>2043</File_Size_K>
-      <File_Size_MB>1.99</File_Size_MB>
+      <File_Size_Bytes>2115025</File_Size_Bytes>
+      <File_Size_K>2065</File_Size_K>
+      <File_Size_MB>2.02</File_Size_MB>
     </File_Info>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>
@@ -49,26 +49,26 @@
       <Keywords>rename files, batch rename, rename documents, file renamer, rename by content, undo rename, free, windows</Keywords>
       <Char_Desc_45>Renames a folder of documents or files</Char_Desc_45>
       <Char_Desc_80>Batch-renames files from their first words, old names or typed text, with Undo.</Char_Desc_80>
-      <Char_Desc_250>Pick a folder and give its documents, or all its files, new names: from the first words of their text, from their current names, or from your own text, with dates, numbers and more. A list shows every new name before anything changes.</Char_Desc_250>
-      <Char_Desc_450>Pick a folder and give its documents, or all its files, new names: from the first words of their text, from their current names, or from your own text, with dates, numbers and more. A list shows every new name before anything changes. Word or LibreOffice needed only for names from document text. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
-      <Char_Desc_2000>Document Renamer gives a whole folder of files new names in one go. Names can be made from the first characters of each document's text, from the names they have now, or from text you type, then changed by replacing words, removing characters or changing capital letters, with text, dates (including when a photo or video was taken), author, title or numbers added. A list shows every old and new name as you change the choices. Then either renamed copies are saved in a "renamed" folder (the originals stay as they are), or the files themselves are renamed, and the old names can be put back afterwards. Works on .rtf, .doc, .docx and .txt documents, or on every file in the folder.
+      <Char_Desc_250>Pick a folder, or just some of its files, and give them new names: from the first words of their text, from their current names, or from your own text, with dates, numbers and more. A list shows every new name before anything changes.</Char_Desc_250>
+      <Char_Desc_450>Pick a folder, or just some of its files, and give them new names: from the first words of their text, from their current names, or from your own text, with dates, numbers and more. A list shows every new name before anything changes. Word or LibreOffice needed only for names from document text. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
+      <Char_Desc_2000>Document Renamer gives a whole folder of files new names in one go, or just the files you pick. Names can be made from the first characters of each document's text, from the names they have now, or from text you type, then changed by replacing words, removing characters or changing capital letters, with text, dates (including when a photo or video was taken), author, title or numbers added. A list shows every old and new name as you change the choices, with a tick box to leave any file out. Then either renamed copies are saved in a "renamed" folder (the originals stay as they are), or the files themselves are renamed, and the old names can be put back afterwards. Works on .rtf, .doc, .docx and .txt documents, or on every file in the folder.
 
 Before you install: Microsoft Word or the free LibreOffice is needed only to name files from the words inside Word (.doc, .docx) and Rich Text (.rtf) files; every other way of renaming works without them. Setup tells you if neither is found. Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-renamer-v1.0</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-renamer-v1.1</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-renamer.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-renamer-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/document-renamer.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-renamer-v1.0/Document.Renamer.Setup.1.0.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-renamer-v1.1/Document.Renamer.Setup.1.1.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>
     <Distribution_Permissions>Document Renamer is free to use and share. Download sites may list it and offer the unchanged Setup.exe, or link to the download page.</Distribution_Permissions>
-    <EULA>Document Renamer is free and comes with no warranty. Use it at your own risk. The free parts it is built from keep their own licenses, listed in the licenses folder it installs.</EULA>
+    <EULA>Document Renamer is free and comes with no warranty. Use it at your own risk. It uses only parts that come with Windows, so it brings no other licenses.</EULA>
   </Permissions>
 </XML_DIZ_INFO>
