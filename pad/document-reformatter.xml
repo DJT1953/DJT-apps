@@ -22,23 +22,23 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Document Reformatter</Program_Name>
-    <Program_Version>1.2.0</Program_Version>
+    <Program_Version>1.2.1</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
     <Program_Release_Day>19</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
-    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>New option joins lines that break at every line end: one break becomes a space, two in a row end the paragraph. Only files broken at every line are changed, and indented paragraphs keep their indent.</Program_Change_Info>
+    <Program_Change_Info>Setup now installs the made-up sample documents to try it on, and the checks file, as How to use.txt describes. Version 1.2.0 added joining lines that break at every line end.</Program_Change_Info>
     <Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit. Microsoft Word (not included)</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>2089187</File_Size_Bytes>
-      <File_Size_K>2040</File_Size_K>
-      <File_Size_MB>1.99</File_Size_MB>
+      <File_Size_Bytes>2149818</File_Size_Bytes>
+      <File_Size_K>2099</File_Size_K>
+      <File_Size_MB>2.05</File_Size_MB>
     </File_Info>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>
@@ -58,13 +58,13 @@ Before you install: Needs Microsoft Word (not included). Setup warns if Word is 
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-reformatter-v1.2.0</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-reformatter-v1.2.1</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-reformatter.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-reformatter-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/document-reformatter.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-reformatter-v1.2.0/Document.Reformatter.Setup.1.2.0.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-reformatter-v1.2.1/Document.Reformatter.Setup.1.2.1.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>
