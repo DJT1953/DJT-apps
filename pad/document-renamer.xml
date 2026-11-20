@@ -22,7 +22,7 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Document Renamer</Program_Name>
-    <Program_Version>1.1</Program_Version>
+    <Program_Version>1.2</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
     <Program_Release_Day>19</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
@@ -32,12 +32,12 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>Pick just some files to rename, or untick files in the list to leave them out. It now opens on its main window, so you can make your choices before choosing a folder.</Program_Change_Info>
+    <Program_Change_Info>The folder window now opens in your Documents folder (or the Desktop) instead of the last folder used. Version 1.1 added picking just some files, tick boxes, and opening on the main window.</Program_Change_Info>
     <Program_Category_Class>System Utilities::File &amp; Disk Management</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit. Word or LibreOffice only for names from document text</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>2115025</File_Size_Bytes>
-      <File_Size_K>2065</File_Size_K>
+      <File_Size_Bytes>2115258</File_Size_Bytes>
+      <File_Size_K>2066</File_Size_K>
       <File_Size_MB>2.02</File_Size_MB>
     </File_Info>
     <Expire_Info>
@@ -58,13 +58,13 @@ Before you install: Microsoft Word or the free LibreOffice is needed only to nam
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-renamer-v1.1</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/document-renamer-v1.2</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-renamer.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/document-renamer-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/document-renamer.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-renamer-v1.1/Document.Renamer.Setup.1.1.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/document-renamer-v1.2/Document.Renamer.Setup.1.2.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>
