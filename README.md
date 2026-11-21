@@ -7,6 +7,8 @@ everything it needs, so you don't have to install Python or anything else first.
 
 Go to **[Releases](../../releases)** and download the Setup.exe for the app you want.
 
+Each app has a **Check for updates** button that opens [the page with the newest version of every app](https://djt1953.github.io/office-tools-and-learning-games/).
+
 | App | What it does |
 |---|---|
 | Video Player | Plays MP4, MKV, AVI, MOV and most other videos, a whole folder at a time. Full screen, skip 10 s, save a frame as a picture. |
