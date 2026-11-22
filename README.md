@@ -27,6 +27,7 @@ Each app has a **Check for updates** button that opens [the page with the newest
 | Clean Up Scans | Straightens, crops and whitens photographed or scanned pages, saving cleaned copies and leaving the originals alone. |
 | Proofreader | Fixes spelling, grammar, punctuation and capitals in Word, RTF and text files, saving corrected copies with a report. Its free checker works offline; Word is optional. |
 | Song Cleaner | Tidies a folder of MP3s recorded from the radio: better names, copies of the same song removed, talk trimmed from the ends. Nothing is deleted; Undo puts it back. |
+| Photo Stitcher | Joins overlapping photos into one big panorama, in any order: side by side, top to bottom, or in rows and columns. Trims the ragged edges; an Adjust window turns, squares up, crops and resizes it. Opens iPhone HEIC photos. Your photos are never changed. |
 
 
 ## Before you install
@@ -53,12 +54,12 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
 ## Licenses
 
-The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR, OpenCV, LanguageTool, Java (Eclipse Temurin), mutagen, Chromaprint and soundcard. Their licenses,
+The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR, OpenCV, pillow-heif (libheif, x265), LanguageTool, Java (Eclipse Temurin), mutagen, Chromaprint and soundcard. Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
 Document Reformatter, Document Renamer and Find and Replace use only parts that come with Windows,
 so they have no `licenses` folder.
 
-Song Cleaner and Music Player are free software under the GNU GPL (version 3 or later). Their source code comes with them, in the `source` folder of the installed app, and as a zip on each release page.
+Song Cleaner, Music Player and Photo Stitcher are free software under the GNU GPL (version 3 or later). Their source code is a zip on each of their release pages; Song Cleaner and Music Player also install it in their `source` folder.
 
 ## For download sites
 
