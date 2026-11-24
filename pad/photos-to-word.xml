@@ -22,9 +22,9 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Photos to Word</Program_Name>
-    <Program_Version>1.1.0</Program_Version>
+    <Program_Version>1.2.0</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>20</Program_Release_Day>
+    <Program_Release_Day>24</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
@@ -32,13 +32,13 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>New: a Check for updates button opens the download page, which always has the newest version of every program.</Program_Change_Info>
+    <Program_Change_Info>New: reads handwriting as well as print, with a new free reader (RapidOCR) that works on this computer; turns pages photographed sideways or upside down; plain messages for empty, damaged and iPhone HEIC files.</Program_Change_Info>
     <Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>73956066</File_Size_Bytes>
-      <File_Size_K>72223</File_Size_K>
-      <File_Size_MB>70.53</File_Size_MB>
+      <File_Size_Bytes>89956372</File_Size_Bytes>
+      <File_Size_K>87848</File_Size_K>
+      <File_Size_MB>85.79</File_Size_MB>
     </File_Info>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>
@@ -46,25 +46,25 @@
   </Program_Info>
   <Program_Descriptions>
     <English>
-      <Keywords>ocr, photo to word, image to docx, scan to text, text recognition, tesseract, free, windows</Keywords>
+      <Keywords>ocr, photo to word, image to docx, scan to text, handwriting recognition, text recognition, free, windows</Keywords>
       <Char_Desc_45>Turns photos of pages into Word files</Char_Desc_45>
-      <Char_Desc_80>Reads the text in photos of printed pages and saves editable Word (.docx) files.</Char_Desc_80>
-      <Char_Desc_250>Pick a folder of photos of printed pages. The text in each photo is read (OCR) and saved as an editable Word file, laid out roughly where it sat on the page: one Word file per photo, or all photos in one file, a page each.</Char_Desc_250>
-      <Char_Desc_450>Pick a folder of photos of printed pages. The text in each photo is read (OCR) and saved as an editable Word file, laid out roughly where it sat on the page: one Word file per photo, or all photos in one file, a page each. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
-      <Char_Desc_2000>Photos to Word turns photos and scans of printed pages into Word (.docx) files you can edit. Click One Word file for each photo or All photos in one Word file, then pick the folder. The text in each picture is read with the Tesseract OCR engine and placed on the page roughly where it appears in the photo, with columns lined up and font sizes scaled. Works with JPG, PNG, TIFF, BMP, GIF and WebP pictures. Word files you corrected earlier are only replaced if you say so. Microsoft Word is not needed to make the files, only to open them. Everything it needs, including Tesseract, is included.
+      <Char_Desc_80>Reads print and handwriting in photos of pages and saves editable Word files.</Char_Desc_80>
+      <Char_Desc_250>Pick a folder of photos of printed or handwritten pages. The text in each photo is read (OCR) and saved as an editable Word file, laid out roughly where it sat on the page: one Word file per photo, or all photos in one file, a page each.</Char_Desc_250>
+      <Char_Desc_450>Pick a folder of photos of printed or handwritten pages. The text in each photo is read (OCR) and saved as an editable Word file, laid out roughly where it sat on the page: one Word file per photo, or all photos in one file, a page each. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
+      <Char_Desc_2000>Photos to Word turns photos and scans of pages, printed or handwritten, into Word (.docx) files you can edit. Click One Word file for each photo or All photos in one Word file, then pick the folder. The text in each picture is read by RapidOCR, a free reader that works on this computer (nothing is uploaded), and placed on the page roughly where it appears in the photo, with columns lined up and font sizes scaled. A page photographed sideways or upside down is turned the right way up, and a slightly tilted photo is straightened. Works with JPG, PNG, TIFF (16-bit scans too), BMP, GIF and WebP pictures. Word files you corrected earlier are only replaced if you say so. Microsoft Word is not needed to make the files, only to open them. Everything it needs is included.
 
 Before you install: Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/photos-to-word-v1.1.0</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/photos-to-word-v1.2.0</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/photos-to-word.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/photos-to-word-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/photos-to-word.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/photos-to-word-v1.1.0/Photos.to.Word.Setup.1.1.0.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/photos-to-word-v1.2.0/Photos.to.Word.Setup.1.2.0.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>

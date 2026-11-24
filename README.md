@@ -17,7 +17,7 @@ Each app has a **Check for updates** button that opens [the page with the newest
 | Screen Recorder | Films your whole screen with the computer's sound and your voice into one MP4. Ctrl+Alt+R starts it from any program; Esc stops and saves. |
 | Video Editor | Cuts and joins videos and sound files, with volume, fades and added music, then saves a new MP4, MP3 and more. |
 | Audio Editor | Plays and edits MP3, WAV, FLAC and other sound files on a waveform: cut, copy, paste, change the voice, add effects, record, and save. |
-| Photos to Word | Turns photos of printed pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
+| Photos to Word | Turns photos of printed or handwritten pages into Word files you can edit. Pick a folder of photos; the text is read and laid out like the page. |
 | Combine Document Files | Joins Word and RTF files into one, in the order you choose, each keeping its own look. Tick the files to join; save as .docx, .doc, .rtf or PDF. (Called Combine Word Files up to 1.0.1.) |
 | Document Reformatter | Gives every Word, RTF and text file in a folder one new font, size and spacing. Joins lines broken at every line end and splits giant run-together paragraphs. The originals are kept, unchanged, in an Originals folder. **Needs Microsoft Word.** |
 | Document Renamer | Renames a folder of files at once, or just the ones you pick: from their first words, old names or your own text, with dates and numbers. Tick boxes leave any file out; Undo puts old names back. |
@@ -28,6 +28,7 @@ Each app has a **Check for updates** button that opens [the page with the newest
 | Proofreader | Fixes spelling, grammar, punctuation and capitals in Word, RTF and text files, saving corrected copies with a report. Its free checker works offline; Word is optional. |
 | Song Cleaner | Tidies a folder of MP3s recorded from the radio: better names, copies of the same song removed, talk trimmed from the ends. Nothing is deleted; Undo puts it back. |
 | Photo Stitcher | Joins overlapping photos into one big panorama, in any order: side by side, top to bottom, or in rows and columns. Trims the ragged edges; an Adjust window turns, squares up, crops and resizes it. Opens iPhone HEIC photos. Your photos are never changed. |
+| Dating Photographs | Reads the dates written on old photos (front, border or back, even in handwriting) and renames each one by its date, like 1998-10-01.jpg. You check every date first; it can also set Date taken and print the date in orange like a film camera. Undo puts everything back. |
 
 
 ## Before you install
@@ -54,7 +55,7 @@ Settings > Apps > Installed apps > pick the app > **Uninstall**.
 
 ## Licenses
 
-The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, Tesseract OCR, OpenCV, pillow-heif (libheif, x265), LanguageTool, Java (Eclipse Temurin), mutagen, Chromaprint and soundcard. Their licenses,
+The apps are free. They are built with free parts such as Python, Qt (PySide6), FFmpeg, RapidOCR (ONNX Runtime), OpenCV, pillow-heif (libheif, x265), LanguageTool, Java (Eclipse Temurin), mutagen, Chromaprint and soundcard. Their licenses,
 and where to get their source code, are in the `licenses` folder inside each installed app.
 Document Reformatter, Document Renamer and Find and Replace use only parts that come with Windows,
 so they have no `licenses` folder.
