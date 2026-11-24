@@ -22,7 +22,7 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Book Reader</Program_Name>
-    <Program_Version>1.1.1</Program_Version>
+    <Program_Version>1.1.2</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
     <Program_Release_Day>24</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
@@ -32,13 +32,13 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>Updating is cleaner: the new Setup clears out the old version's program files before putting in the new ones, so nothing old is left behind. The guide now says how to update: run the new Setup, with no need to uninstall first.</Program_Change_Info>
+    <Program_Change_Info>Words on screen and in the how-to-use guide now use American spelling (color, gray, canceled, recognize). Nothing else changed.</Program_Change_Info>
     <Program_Category_Class>Home &amp; Hobby::Other</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit. Word optional, only for Word copies</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>158829950</File_Size_Bytes>
-      <File_Size_K>155107</File_Size_K>
-      <File_Size_MB>151.47</File_Size_MB>
+      <File_Size_Bytes>158905110</File_Size_Bytes>
+      <File_Size_K>155181</File_Size_K>
+      <File_Size_MB>151.54</File_Size_MB>
     </File_Info>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>
@@ -58,13 +58,13 @@ Before you install: Microsoft Word is optional: it is only used to save a copy o
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/book-reader-v1.1.1</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/book-reader-v1.1.2</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/book-reader.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/book-reader-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/book-reader.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/book-reader-v1.1.1/Book.Reader.Setup.1.1.1.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/book-reader-v1.1.2/Book.Reader.Setup.1.1.2.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>

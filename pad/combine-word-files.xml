@@ -22,7 +22,7 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Combine Document Files</Program_Name>
-    <Program_Version>1.2.1</Program_Version>
+    <Program_Version>1.2.2</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
     <Program_Release_Day>24</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
@@ -32,11 +32,11 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>Updating is cleaner: the new Setup clears out the old version's program files before putting in the new ones, so nothing old is left behind. The guide now says how to update: run the new Setup, with no need to uninstall first.</Program_Change_Info>
+    <Program_Change_Info>The how-to-use guide now uses American spelling (gray, minimize). Nothing else changed.</Program_Change_Info>
     <Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit. Word optional, for .doc, .rtf and PDF</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>22277821</File_Size_Bytes>
+      <File_Size_Bytes>22277829</File_Size_Bytes>
       <File_Size_K>21756</File_Size_K>
       <File_Size_MB>21.25</File_Size_MB>
     </File_Info>
@@ -51,20 +51,20 @@
       <Char_Desc_80>Joins .docx, .doc and .rtf files into one, in your order; saves as Word or PDF.</Char_Desc_80>
       <Char_Desc_250>Pick a folder or files, tick the ones to join and set their order. They are joined into one file with a line between each, saved as .docx, .doc, .rtf or PDF. Each keeps its own fonts, pictures, tables and footnotes.</Char_Desc_250>
       <Char_Desc_450>Pick a folder or files, tick the ones to join and set their order. They are joined into one file with a line between each, saved as .docx, .doc, .rtf or PDF. Each keeps its own fonts, pictures, tables and footnotes. Word optional; needed for .doc, .rtf and PDF. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
-      <Char_Desc_2000>Combine Document Files (called Combine Word Files up to version 1.0.1) joins Word (.docx, .doc) and Rich Text (.rtf) files into one, in the order you choose, with a line between each file. Press 1. Pick folder... to list every document in a folder in page-number order (page 2 before page 10), or Add files... to pick them one at a time. Each file has a tick box; files that can't be used (locked, damaged or empty) are greyed out with the reason. Move up, Move down, Move to top and Move to bottom set the order. Save the result as Word (.docx), older Word (.doc), Rich Text (.rtf) or PDF, then press 4. Combine. Each file keeps its own fonts, spacing, page size, orientation, margins, pictures, tables, lists, footnotes, endnotes and comments. Headers and footers come from the first file. You are asked before an existing combined file is replaced.
+      <Char_Desc_2000>Combine Document Files (called Combine Word Files up to version 1.0.1) joins Word (.docx, .doc) and Rich Text (.rtf) files into one, in the order you choose, with a line between each file. Press 1. Pick folder... to list every document in a folder in page-number order (page 2 before page 10), or Add files... to pick them one at a time. Each file has a tick box; files that can't be used (locked, damaged or empty) are grayed out with the reason. Move up, Move down, Move to top and Move to bottom set the order. Save the result as Word (.docx), older Word (.doc), Rich Text (.rtf) or PDF, then press 4. Combine. Each file keeps its own fonts, spacing, page size, orientation, margins, pictures, tables, lists, footnotes, endnotes and comments. Headers and footers come from the first file. You are asked before an existing combined file is replaced.
 
 Before you install: Microsoft Word is optional: .docx files are combined and saved as .docx without it. Reading .doc and .rtf files, and saving as .doc, .rtf or PDF, need Word. Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/combine-document-files-v1.2.1</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/combine-document-files-v1.2.2</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/combine-word-files.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/combine-word-files-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/combine-word-files.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/combine-document-files-v1.2.1/Combine.Document.Files.Setup.1.2.1.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/combine-document-files-v1.2.2/Combine.Document.Files.Setup.1.2.2.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>
