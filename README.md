@@ -49,6 +49,11 @@ Each app has a **Check for updates** button that opens [the page with the newest
 Apps install to `C:\Users\<your name>\DJT_Code\<app name>`, with a Desktop shortcut and a
 Start menu entry.
 
+## Update
+
+Download the new version's Setup.exe and double-click it. There is no need to uninstall the
+old version first: Setup replaces it in the same folder and keeps your settings.
+
 ## Remove
 
 Settings > Apps > Installed apps > pick the app > **Uninstall**.
