@@ -22,9 +22,9 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Dating Photographs</Program_Name>
-    <Program_Version>1.0.1</Program_Version>
+    <Program_Version>1.1.0</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>24</Program_Release_Day>
+    <Program_Release_Day>27</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
@@ -32,13 +32,13 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>Updating is cleaner: the new Setup clears out the old version's program files before putting in the new ones, so nothing old is left behind. The guide now says how to update: run the new Setup, with no need to uninstall first.</Program_Change_Info>
+    <Program_Change_Info>New: copy the photos instead of moving them, so the photos themselves stay untouched; only the copies get the new names and dates. Captions read better: birth, death and wedding dates no longer win over the photo's own date, and dates like 1881 October 14, 1959 07 and 1956 summer are understood. Small fixes, and the photo list fits small laptop screens.</Program_Change_Info>
     <Program_Category_Class>Graphic Apps::Editors</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>87803023</File_Size_Bytes>
-      <File_Size_K>85745</File_Size_K>
-      <File_Size_MB>83.74</File_Size_MB>
+      <File_Size_Bytes>87825460</File_Size_Bytes>
+      <File_Size_K>85767</File_Size_K>
+      <File_Size_MB>83.76</File_Size_MB>
     </File_Info>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>
@@ -46,25 +46,25 @@
   </Program_Info>
   <Program_Descriptions>
     <English>
-      <Keywords>date photos, old photographs, rename photos by date, handwriting, photo date stamp, scanned photos, date taken, free, windows</Keywords>
+      <Keywords>date photos, old photographs, rename photos by date, copy photos by date, handwriting, photo date stamp, scanned photos, date taken, free, windows</Keywords>
       <Char_Desc_45>Renames old photos by the dates on them</Char_Desc_45>
-      <Char_Desc_80>Reads the dates handwritten on old photos and renames each one by its date.</Char_Desc_80>
-      <Char_Desc_250>Pick a folder of scanned photos. The dates written on the front, the white border or the back are read, even in handwriting, and each photo is renamed by its date, like 1998-10-01.jpg, in a Dated Photographs folder. You check every date first.</Char_Desc_250>
-      <Char_Desc_450>Pick a folder of scanned photos. The dates written on the front, the white border or the back are read, even in handwriting, and each photo is renamed by its date, like 1998-10-01.jpg, in a Dated Photographs folder. You check every date first. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
-      <Char_Desc_2000>Dating Photographs reads the dates written on your old photos, on the front, the white border or the back (scanned as its own file), and renames each photo by its date, like 1998-10-01.jpg, in a Dated Photographs folder, so sorted by name they are in date order. It reads handwriting and print, and the orange date a film camera printed in the corner. Oct-98, 98-Oct, June 12, 1975, 3/15/91, Christmas 1987 and Summer '82 all become dates; a date with no day gets the 1st. You check each date before anything moves: click a photo to see it, with a box round the words its date came from, type a different date, or untick it to leave it where it is. Options: keep the old name after the date, a folder for each year, set each photo's Date taken so photo programs sort it right, and print the date on the photo in orange like a film camera, keeping an untouched copy. Undo the last move puts everything back. Every move is listed in a file Excel opens. The reading happens on this computer; nothing is uploaded. Everything it needs is included.
+      <Char_Desc_80>Reads the dates handwritten on old photos; renames or copies each by its date.</Char_Desc_80>
+      <Char_Desc_250>Pick a folder of scanned photos. The dates written on the front, the white border or the back are read, even in handwriting. Each photo is moved or copied to a Dated Photographs folder under its date, like 1998-10-01.jpg. You check every date first.</Char_Desc_250>
+      <Char_Desc_450>Pick a folder of scanned photos. The dates written on the front, the white border or the back are read, even in handwriting. Each photo is moved or copied to a Dated Photographs folder under its date, like 1998-10-01.jpg. You check every date first. Free. Windows 10 or 11, 64-bit; nothing else to install.</Char_Desc_450>
+      <Char_Desc_2000>Dating Photographs reads the dates written on your old photos, on the front, the white border or the back (scanned as its own file), and renames each photo by its date, like 1998-10-01.jpg, in a Dated Photographs folder, so sorted by name they are in date order. You choose whether the photos are moved there, or copied there and left untouched where they are. It reads handwriting and print, and the orange date a film camera printed in the corner. Oct-98, 98-Oct, June 12, 1975, 3/15/91, Christmas 1987, Summer '82 and 1959 07 all become dates; a date with no day gets the 1st. Birth, death and wedding dates in a family-tree caption are told apart from the photo's own date. You check each date before anything moves: click a photo to see it, with a box round the words its date came from, type a different date, or untick it to leave it where it is. Options: keep the old name after the date, a folder for each year, set each photo's Date taken so photo programs sort it right, and print the date on the photo in orange like a film camera. Undo puts everything back, or takes the copies away. Every move and copy is listed in a file Excel opens. The reading happens on this computer; nothing is uploaded. Everything it needs is included.
 
 Before you install: Windows 10 or 11, 64-bit. The installer is not code-signed (a signing certificate is a paid yearly service), so Windows may show a blue "Windows protected your PC" box: click More info, then Run anyway. A few antivirus programs wrongly flag new unsigned programs; you can check the download against the SHA-256 fingerprint on its release page. No administrator password is needed.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/dating-photographs-v1.0.1</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/dating-photographs-v1.1.0</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/dating-photographs.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/dating-photographs-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/dating-photographs.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/dating-photographs-v1.0.1/Dating.Photographs.Setup.1.0.1.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/dating-photographs-v1.1.0/Dating.Photographs.Setup.1.1.0.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>

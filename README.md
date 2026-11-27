@@ -28,7 +28,7 @@ Each app has a **Check for updates** button that opens [the page with the newest
 | Proofreader | Fixes spelling, grammar, punctuation and capitals in Word, RTF and text files, saving corrected copies with a report. Its free checker works offline; Word is optional. |
 | Song Cleaner | Tidies a folder of MP3s recorded from the radio: better names, copies of the same song removed, talk trimmed from the ends. Nothing is deleted; Undo puts it back. |
 | Photo Stitcher | Joins overlapping photos into one big panorama, in any order: side by side, top to bottom, or in rows and columns. Trims the ragged edges; an Adjust window turns, squares up, crops and resizes it. Opens iPhone HEIC photos. Your photos are never changed. |
-| Dating Photographs | Reads the dates written on old photos (front, border or back, even in handwriting) and renames each one by its date, like 1998-10-01.jpg. You check every date first; it can also set Date taken and print the date in orange like a film camera. Undo puts everything back. |
+| Dating Photographs | Reads the dates written on old photos (front, border or back, even in handwriting) and renames each one, or a copy of it, by its date, like 1998-10-01.jpg. You check every date first; it can also set Date taken and print the date in orange like a film camera. Undo puts everything back. |
 
 
 ## Before you install
