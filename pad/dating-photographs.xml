@@ -22,7 +22,7 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Dating Photographs</Program_Name>
-    <Program_Version>1.1.0</Program_Version>
+    <Program_Version>1.1.1</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
     <Program_Release_Day>27</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
@@ -32,12 +32,12 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>WinOther</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>New: copy the photos instead of moving them, so the photos themselves stay untouched; only the copies get the new names and dates. Captions read better: birth, death and wedding dates no longer win over the photo's own date, and dates like 1881 October 14, 1959 07 and 1956 summer are understood. Small fixes, and the photo list fits small laptop screens.</Program_Change_Info>
+    <Program_Change_Info>On small laptop screens (1366 x 768, or 1920 x 1080 at 150%) every step, line and button now shows. Before, the bottom of the photo list, its counts line and the tip under the date box were cut off.</Program_Change_Info>
     <Program_Category_Class>Graphic Apps::Editors</Program_Category_Class>
     <Program_System_Requirements>Windows 10 or 11, 64-bit</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>87825460</File_Size_Bytes>
-      <File_Size_K>85767</File_Size_K>
+      <File_Size_Bytes>87830311</File_Size_Bytes>
+      <File_Size_K>85772</File_Size_K>
       <File_Size_MB>83.76</File_Size_MB>
     </File_Info>
     <Expire_Info>
@@ -58,13 +58,13 @@ Before you install: Windows 10 or 11, 64-bit. The installer is not code-signed (
   </Program_Descriptions>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/dating-photographs-v1.1.0</Application_Info_URL>
+      <Application_Info_URL>https://github.com/DJT1953/DJT-apps/releases/tag/dating-photographs-v1.1.1</Application_Info_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/dating-photographs.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/images/dating-photographs-icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/DJT1953/DJT-apps/main/pad/dating-photographs.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/dating-photographs-v1.1.0/Dating.Photographs.Setup.1.1.0.exe</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/DJT1953/DJT-apps/releases/download/dating-photographs-v1.1.1/Dating.Photographs.Setup.1.1.1.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
   <Permissions>
